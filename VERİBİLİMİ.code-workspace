@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/svm_model.pkl"
+		},
+		{
+			"path": "../../../Downloads/mnist.pkl"
+		}
+	],
+	"settings": {}
+}
